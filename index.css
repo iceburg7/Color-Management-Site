@@ -1,0 +1,163 @@
+
+body {
+	background-image: url(images/graytree.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	}
+
+a {
+	color: #adadad;
+	text-decoration:none;
+	}
+	
+article a {
+	color: #777777;
+	}
+	
+ul {
+	margin:0;
+	list-style-type:none;
+	}
+	
+article {
+	width:275px;
+	background-color: #e2e2e2;
+	border: 2px solid #333333;
+	border-top-width: 8px;
+	padding-bottom: 15px;
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	}
+	
+#titleblock li {
+	float: left;
+	padding-right:30px;
+	text-decoration:none;
+	font-family: ariel, helvetica, sans-setif;
+	list-style-type:none;
+	}
+	
+
+	
+#bodycontainer {
+	width:600px;
+	height:725px;
+	margin-left:auto;
+	margin-right:auto;
+	}
+		
+	
+	
+	
+	
+	
+#titleblock {
+	
+	}
+	
+#title {
+	background-color: #5d5d5d;
+	height: 55px;
+	width: 600px;
+	color: #d2d2d2;
+	font-family: ariel, helvetica, sans-serif;
+	font-size: 2em;
+	text-align: center;
+	margin: 0;
+	padding-top: 20px;
+	}
+	
+	
+	
+	
+#topmenubar {
+	height: 21px;
+	width: 600px;
+	padding-top: 4px;
+	background-color: #232323;
+	color: #adadad;
+	margin:0;
+	}
+	
+	
+
+
+#contentblock {
+	width:600px;
+	height:600px;
+	clear:both;
+	}
+
+#leftcolumn {
+	background-color: #5d5d5d;
+	width: 150px;
+	}
+	
+
+	
+#centercolumn {
+	width: 300px;
+	}
+	
+#rightcolumn {
+	width: 150px;
+	}
+	
+#image5 {
+	background-color: #939393;
+	width: 150px;
+	height: 150px;
+	}
+	
+#image6 {
+	background-color: #6d6d6d;
+	width: 150px;
+	height: 150px;
+	}
+	
+#image7 {
+	background-color: #464646;
+	width: 150px;
+	height: 150px;
+	}
+	
+#image8 {
+	background-color: #2a2a2a;
+	width: 150px;
+	height: 150px;
+	}
+	
+#footer {
+	width:600px;
+	height: 21px;
+	padding-top: 4px;
+	font-family: ariel, helvetica, sans-setif;
+	background-color: #9d9d9d;
+	color: #ffffff;
+	clear:both;
+	text-align: center;
+	}
+	
+
+
+
+
+
+
+
+
+
+
+.column {
+	height:600px;
+	background-color: #b4b4b4;
+	float:left;
+	}
+	
+	
+.image {
+	width: 150px;
+	height: 150px;
+	background-repeat: no-repeat;
+	background-position: center;

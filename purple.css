@@ -1,0 +1,191 @@
+
+body {
+	background-image: url(images/purplesunset.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	}
+
+a {
+	color: #ffffff;
+	text-decoration:none;
+	}
+	
+ul {
+	margin:0;
+	}
+	
+article {
+	width:275px;
+	background-color: #f0ddf7;
+	border: 2px solid #490f5e;
+	border-top-width: 8px;
+	padding-bottom: 15px;
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	}
+	
+#titleblock li {
+	float: left;
+	padding-right:40px;
+	text-decoration:none;
+	font-family: ariel, helvetica, sans-setif;
+	list-style-type:none;
+	}
+	
+
+	
+#bodycontainer {
+	width:600px;
+	height:725px;
+	margin-left:auto;
+	margin-right:auto;
+	}
+		
+	
+	
+	
+	
+	
+#titleblock {
+	
+	}
+	
+#title {
+	background-color: #67027c;
+	height: 55px;
+	width: 600px;
+	color: #fa62ed;
+	font-family: ariel, helvetica, sans-serif;
+	font-size: 2em;
+	text-align: center;
+	margin: 0;
+	padding-top: 20px;
+	}
+	
+	
+	
+	
+#topmenubar {
+	height: 21px;
+	width: 600px;
+	padding-top: 4px;
+	background-color: #41064b;
+	color: #ffffff;
+	margin:0;
+	}
+	
+	
+
+
+#contentblock {
+	position:relative;
+	width:600px;
+	height:600px;
+	clear:both;
+	}
+
+#leftcolumn {
+	width: 150px;
+	}
+	
+#image1 {
+	background-color: #61476b;
+	width: 150px;
+	height: 150px;
+	}
+	
+#image2 {
+	background-color: #c936c4;
+	width: 150px;
+	height: 150px;
+	}
+	
+#image3 {
+	background-color: #e892d9;
+	width: 150px;
+	height: 150px;
+	}
+	
+#image4 {
+	background-color: #6d165e;
+	width: 150px;
+	height: 150px;
+	}
+	
+#centercolumn {
+	width: 300px;
+	}
+	
+#rightcolumn {
+	width: 150px;
+	}
+	
+#image5 {
+	background-color: #7517b0;
+	width: 150px;
+	height: 150px;
+	}
+	
+#image6 {
+	background-color: #52246f;
+	width: 150px;
+	height: 150px;
+	}
+	
+#image7 {
+	background-color: #9b73df;
+	width: 150px;
+	height: 150px;
+	}
+	
+#image8 {
+	background-color: #79418e;
+	width: 150px;
+	height: 150px;
+	}
+	
+#pleasewait {
+	width: 150px;
+	height: 120px;
+	background-color: #fffbb3;
+	border: 4px solid #968f20;
+	border-top-width: 10px;
+	top:136px;
+	left:210px;
+	position: absolute;
+	}
+	
+#footer {
+	width:600px;
+	height: 21px;
+	padding-top: 4px;
+	font-family: ariel, helvetica, sans-setif;
+	background-color: #41064b;
+	color: #ffffff;
+	clear:both;
+	text-align: center;
+	}
+	
+
+
+
+
+
+
+
+
+
+
+.column {
+	height:600px;
+	background-color: #bf94dc;
+	float:left;
+	}
+	
+	
+.image {
+	width: 150px;
+	height: 150px;
+	background-repeat: no-repeat;
+	background-position: center;

@@ -1,0 +1,178 @@
+
+body {
+	background-image: url(images/leaf.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	}
+
+a {
+	color: #ffffff;
+	text-decoration:none;
+	}
+	
+ul {
+	margin:0;
+	}
+	
+article {
+	width:275px;
+	background-color: #b9dfbe;
+	border: 2px solid #21842c;
+	border-top-width: 8px;
+	padding-bottom: 15px;
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	}
+	
+#titleblock li {
+	float: left;
+	padding-right:40px;
+	text-decoration:none;
+	font-family: ariel, helvetica, sans-setif;
+	list-style-type:none;
+	}
+	
+
+	
+#bodycontainer {
+	width:600px;
+	height:725px;
+	margin-left:auto;
+	margin-right:auto;
+	}
+		
+	
+	
+	
+	
+	
+#titleblock {
+	
+	}
+	
+#title {
+	background-color: #056f02;
+	height: 55px;
+	width: 600px;
+	color: #3ede3a;
+	font-family: ariel, helvetica, sans-serif;
+	font-size: 2em;
+	text-align: center;
+	margin: 0;
+	padding-top: 20px;
+	}
+	
+	
+	
+	
+#topmenubar {
+	height: 21px;
+	width: 600px;
+	padding-top: 4px;
+	background-color: #063f0c;
+	color: #ffffff;
+	margin:0;
+	}
+	
+
+
+#contentblock {
+	width:600px;
+	height:600px;
+	clear:both;
+	}
+
+#leftcolumn {
+	width: 150px;
+	}
+	
+#image1 {
+	background-image: url(images/green1.jpg);
+	width: 150px;
+	height: 150px;
+	}
+	
+#image2 {
+	background-image: url(images/green2.jpg);
+	width: 150px;
+	height: 150px;
+	}
+	
+#image3 {
+	background-image: url(images/green3.jpg);
+	width: 150px;
+	height: 150px;
+	}
+	
+#image4 {
+	background-image: url(images/green4.jpg);
+	width: 150px;
+	height: 150px;
+	}
+	
+#centercolumn {
+	width: 300px;
+	}
+	
+#rightcolumn {
+	width: 150px;
+	}
+	
+#image5 {
+	background-image: url(images/green5.jpg);
+	width: 150px;
+	height: 150px;
+	}
+	
+#image6 {
+	background-image: url(images/green6.jpg);
+	width: 150px;
+	height: 150px;
+	}
+	
+#image7 {
+	background-image: url(images/green7.jpg);
+	width: 150px;
+	height: 150px;
+	}
+	
+#image8 {
+	background-image: url(images/green8.jpg);
+	width: 150px;
+	height: 150px;
+	}
+	
+#footer {
+	width:600px;
+	height: 21px;
+	padding-top: 4px;
+	font-family: ariel, helvetica, sans-setif;
+	background-color: #63a11b;
+	color: #ffffff;
+	clear:both;
+	text-align: center;
+	}
+	
+
+
+
+
+
+
+
+
+
+
+.column {
+	height:600px;
+	background-color: #84d78d;
+	float:left;
+	}
+	
+	
+.image {
+	width: 150px;
+	height: 150px;
+	background-repeat: no-repeat;
+	background-position: center;
