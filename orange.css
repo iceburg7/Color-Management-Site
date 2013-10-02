@@ -33,7 +33,11 @@ article {
 	list-style-type:none;
 	}
 	
-
+	
+	
+	
+	
+	
 	
 #bodycontainer {
 	width:600px;
@@ -63,9 +67,6 @@ article {
 	padding-top: 20px;
 	}
 	
-	
-	
-	
 #topmenubar {
 	height: 21px;
 	width: 600px;
@@ -74,6 +75,9 @@ article {
 	color: #ffffff;
 	margin:0;
 	}
+	
+	
+	
 	
 	
 
@@ -116,6 +120,23 @@ article {
 #centercolumn {
 	width: 300px;
 	}
+	
+#centercolumn2 {
+	display:none;
+	width:300px;
+	height:600px;
+	}
+	
+#imageoftheday {
+	background-image: url(images/orangehat.jpg);
+	height:250px;
+	width:250px;
+	margin-left:auto;
+	margin-right:auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	}
+	
 	
 #rightcolumn {
 	width: 150px;
@@ -163,18 +184,48 @@ article {
 
 
 
-
-
-
 .column {
 	height:600px;
 	background-color: #fff1cf;
 	float:left;
 	}
-	
-	
+
 .image {
 	width: 150px;
 	height: 150px;
 	background-repeat: no-repeat;
 	background-position: center;
+	}
+	
+	
+	
+	
+	
+
+@media all and (min-width:1000px) {
+
+	#bodycontainer {
+		width:900px;
+	}
+	
+	#title {
+		width:900px;
+	}
+	
+	#topmenubar {
+		width:900px;
+	}
+	
+	#footer {
+		width:900px;
+	}
+	
+	#contentblock {
+		width:900px;
+	}
+	
+	#centercolumn2 {
+		display: block;
+	}
+	
+}
