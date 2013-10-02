@@ -58,7 +58,7 @@ article {
 #title {
 	background-color: #73410f;
 	height: 55px;
-	width: 600px;
+/*	width: 600px;*/
 	color: #f5ad00;
 	font-family: ariel, helvetica, sans-serif;
 	font-size: 2em;
@@ -209,7 +209,7 @@ article {
 	}
 	
 	#title {
-		width:900px;
+/*		width:900px;*/
 	}
 	
 	#topmenubar {
@@ -226,6 +226,42 @@ article {
 	
 	#centercolumn2 {
 		display: block;
+	}
+	
+}
+
+
+@media all and (min-width:1150px) {
+
+	#bodycontainer {
+		width:1150px;
+	}
+	
+	#title {
+/*		width:900px;*/
+	}
+	
+	#topmenubar {
+		width:1150px;
+	}
+	
+	#footer {
+		width:1150px;
+	}
+	
+	#contentblock {
+		width:1150px;
+	}
+	
+	#centercolumn2 {
+		display: block;
+		width: 450px;
+	}
+	
+	#imageoftheday {
+		background-image: url(images/orangehatlarge.jpg);
+		height:400px;
+		width:400px;
 	}
 	
 }
